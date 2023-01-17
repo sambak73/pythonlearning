@@ -1,1 +1,4 @@
-install pycharmAdd Git to pycharm
+Install pycharm
+Enable Git
+Commit changes locally
+Push the changes to remote repository
